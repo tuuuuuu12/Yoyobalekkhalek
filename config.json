@@ -12,14 +12,14 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "𝐍𝐚𝐠𝐢𝐧━━ᥫ᭡💋🐍",
+  "nickNameBot": "𝐍𝐚𝐠𝐢𝐧 der kamlu",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61579901465090",
+    "61572042054240",
     "61586371515219",
     "61588533909028"
   ],
@@ -32,7 +32,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61579901465090"
+      "61572042054240"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
